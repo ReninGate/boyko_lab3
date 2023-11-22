@@ -1,0 +1,6 @@
+text_file = text.txt
+target_language = uk
+output_destination = file
+max_characters = 10000
+max_words = 1000
+max_sentences = 50

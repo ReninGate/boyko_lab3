@@ -1,0 +1,7 @@
+№   Мова                  Код   Переклад
+1   af                    afrikaans Vertaling van die teks van hierdie wonderlike pragtige teks
+2   sq                    albanian Përkthimi i tekstit të këtij teksti të mrekullueshëm të bukur
+3   am                    amharic የዚህ አስደናቂ ቆንጆ ጽሑፍ ትርጉም
+4   ar                    arabic ترجمة نص هذا النص الجميل الرائع
+5   hy                    armenian Այս հրաշալի գեղեցիկ տեքստի տեքստի թարգմանությունը
+6   as                    assamese এই আচৰিত সুন্দৰ গ্ৰন্থখনৰ পাঠ্য অনুবাদ
